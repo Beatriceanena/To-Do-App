@@ -1,0 +1,50 @@
+body{
+    box-sizing: border-box;
+    padding: 0px;
+    margin:auto;
+}
+
+.heading{
+    width: 100%;
+    padding: 20px;
+    background-image: url(/images/FreeVector-Vector-Background-With-Circles.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #17617e;
+}
+.container{
+ border: 1px solid #f78e23;
+ margin: 0px auto;
+ height: 90%;
+ width: 40%;
+ padding: 40px;
+ border-radius: 10px;
+}
+.container input{
+    padding: 15px 150px 15px 10px;
+    border: 1px solid #f78e23;
+    border-radius: 10px;
+    margin: 0px 10px;
+    
+}
+
+button{
+    padding: 15px 30px;
+    color:#fff;
+    background-color: #17617e;
+    border: 1px solid #f78e23;
+    border-radius: 5px;
+}
+h3{
+    color: #17617e;
+    font-size: 30px;
+}
+ul li{
+  border: 1px solid #f78e23;
+  padding: 10px; 
+  margin: 10px 0px;
+}
+
+
+/* #17617e blue  yellow #f78e23
